@@ -1,6 +1,6 @@
 # Test de Primalidad
 
-En este program se probara el Test de Miller Rabin con la finalidad de generar y hallar números primos.
+En este programa se probará el Test de Miller Rabin con la finalidad de generar y hallar números primos.
 
 ## Grado de Comfianza:
 >Cuando el número n a probar es pequeño, no es necesario probar todo a < 2(ln n ) 2 , ya que se sabe que son suficientes conjuntos mucho más pequeños de testigos potenciales. Por ejemplo, Pomerance, Selfridge, Wagstaff [4] y Jaeschke [10] han comprobado que:
