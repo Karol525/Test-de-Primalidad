@@ -1,7 +1,7 @@
 #1) Generar todos los primos de 3, 4 y 5 cifras.
 import miller_rabin
-s = 40
-def primos(digit):
+
+def primos(digit,s):
     list = []
     if digit == 3:
         b, a = 99, 997
@@ -17,6 +17,6 @@ def primos(digit):
             list.append(n)
     return list
 if __name__=='__main__':
-    print(primos(3))
-    #print(primos(4))
-    #print(primos(5))
+    print(primos(3,3))
+    #print(primos(4,3))
+    #print(primos(5,3))
