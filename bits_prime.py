@@ -10,6 +10,6 @@ def gen_bits(b):
 
 if __name__=='__main__':
     print(gen_bits(16,))
-   # print(gen_bits(32))
-    #print(gen_bits(64))
+   #print(gen_bits(32))
+   #print(gen_bits(64))
  
